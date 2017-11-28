@@ -14,5 +14,9 @@
 .glide/
 
 # Build dir
-/build
+/build/*
 !/build/.keep
+
+# Vendor dir
+/vendor/*
+!/vendor/.keep
