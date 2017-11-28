@@ -18,5 +18,4 @@
 !/build/.keep
 
 # Vendor dir
-/vendor/*
-!/vendor/.keep
+/vendor

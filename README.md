@@ -2,6 +2,20 @@
 
 ## Setup
 
+Install [Glide](http://glide.sh/) for package manager:
+
 ```sh
-$ curl https://glide.sh/get | sh
+$ brew install glide
+```
+
+Install protobuf:
+
+```sh
+$ brew install protobuf
+```
+
+Then execute `glide install`:
+
+```sh
+$ glide install
 ```
